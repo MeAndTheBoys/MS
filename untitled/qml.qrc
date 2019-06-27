@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PageYear.ui.qml</file>
+        <file>PageDate.ui.qml</file>
+        <file>PageTrivia.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PageMath.ui.qml</file>
+    </qresource>
+</RCC>
